@@ -25,6 +25,33 @@ const questions = [
             { text: "yes", correct: true},
             { text: "yes", correct: true},
         ]
+    },
+     {
+        question: " How many shows did jayz do in 2006 in 1 day ?",
+        answers: [
+            { text: "5", correct: false},
+            { text: "7", correct: true},
+            { text: "6", correct: false},
+            { text: "10", correct: false},
+        ]
+    },
+     {
+        question: " Will you go as per your plan , or should i excecute mine ?",
+        answers: [
+            { text: "mine", correct: false},
+            { text: "yours", correct: true},
+            { text: "mine", correct: false},
+            { text: "mine", correct: false},
+        ]
+    },
+       {
+        question: "Name the album that k dot dropped last night",
+        answers: [
+            { text: "tpab", correct: false},
+            { text: "gnx", correct: true},
+            { text: "damn", correct: false},
+            { text: "born sinner", correct: false},
+        ]
     }
    
 ];
