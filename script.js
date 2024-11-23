@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: "Who wa sthe first female emcee?",
+        question: "Who was the first female emcee on the earth?",
         answers: [
             { text: "Mc ShaRock", correct: true},
             { text: "Cardi B", correct: false},
